@@ -1,0 +1,10 @@
+C:\Users\ed\source\repos\MaiorMenor6Csharp\MaiorMenor6Csharp\obj\Debug\MaiorMenor6Csharp.csprojAssemblyReference.cache
+C:\Users\ed\source\repos\MaiorMenor6Csharp\MaiorMenor6Csharp\obj\Debug\MaiorMenor6Csharp.frmMaiorde6.resources
+C:\Users\ed\source\repos\MaiorMenor6Csharp\MaiorMenor6Csharp\obj\Debug\MaiorMenor6Csharp.Properties.Resources.resources
+C:\Users\ed\source\repos\MaiorMenor6Csharp\MaiorMenor6Csharp\obj\Debug\MaiorMenor6Csharp.csproj.GenerateResource.cache
+C:\Users\ed\source\repos\MaiorMenor6Csharp\MaiorMenor6Csharp\obj\Debug\MaiorMenor6Csharp.csproj.CoreCompileInputs.cache
+C:\Users\ed\source\repos\MaiorMenor6Csharp\MaiorMenor6Csharp\bin\Debug\MaiorMenor6Csharp.exe.config
+C:\Users\ed\source\repos\MaiorMenor6Csharp\MaiorMenor6Csharp\bin\Debug\MaiorMenor6Csharp.exe
+C:\Users\ed\source\repos\MaiorMenor6Csharp\MaiorMenor6Csharp\bin\Debug\MaiorMenor6Csharp.pdb
+C:\Users\ed\source\repos\MaiorMenor6Csharp\MaiorMenor6Csharp\obj\Debug\MaiorMenor6Csharp.exe
+C:\Users\ed\source\repos\MaiorMenor6Csharp\MaiorMenor6Csharp\obj\Debug\MaiorMenor6Csharp.pdb
